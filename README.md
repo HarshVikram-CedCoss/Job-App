@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Job Portal Interviw Question
+## Job Portal Interviw Questions with the typescript framework.
 
 ## Website Name Great Frontend
 
